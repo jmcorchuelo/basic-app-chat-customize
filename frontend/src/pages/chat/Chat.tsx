@@ -587,7 +587,6 @@ const Chat = () => {
                                 />
                                 <h1 className={styles.chatEmptyStateTitle}>Comenzemos/Hasi dezagun</h1>
                                 <h2 className={styles.chatEmptyStateSubtitle}>Soy TEKNA, tu ayudante para mejorar en el día a día..</h2>
-                                <h2 className={styles.chatEmptyStateSubtitle}>This chatbot is configured to answer your questions</h2>
                                 <h2 className={styles.chatEmptyStateSubtitle}>Nire izena TEKNA da, eguneroko bizitzan hobetzeko zure laguntzailea..</h2>
                             </Stack>
                         ) : (
